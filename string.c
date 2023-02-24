@@ -73,35 +73,3 @@ char *_strcat(char *dest, char *src)
 	*dest = *src;
 	return (ret);
 }
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
--- INSERT --                                                                     0,1           All
-
